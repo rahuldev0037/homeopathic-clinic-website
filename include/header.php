@@ -1,17 +1,12 @@
 <!-- Preloader -->
 <div class="preloader">
-    <div class="loader">
-        <div class="loader-outter"></div>
-        <div class="loader-inner"></div>
-
-        <div class="indicator">
-            <svg width="16px" height="12px">
-                <polyline id="back" points="1 6 4 6 6 11 10 1 12 6 15 6"></polyline>
-                <polyline id="front" points="1 6 4 6 6 11 10 1 12 6 15 6"></polyline>
-            </svg>
-        </div>
+    <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
     </div>
 </div>
+<!--  -->
 <!-- End Preloader -->
 
 <!-- Header Area -->
@@ -26,8 +21,8 @@
                 <div class="col-lg-6 col-md-7 col-12">
                     <!-- Top Contact -->
                     <ul class="top-contact">
-                        <li><i class="fa fa-phone"></i>+880 1234 56789</li>
-                        <li><i class="fa fa-envelope"></i><a href="mailto:support@yourmail.com">support@yourmail.com</a>
+                        <li><i class="fa fa-phone"></i>+01206789345</li>
+                        <li><i class="fa fa-envelope"></i><a href="mailto:info@info.com">info@info.com</a>
                         </li>
                     </ul>
                     <!-- End Top Contact -->
@@ -46,15 +41,10 @@
                         <div class="logo">
                             <a href="index">
                                 <img src="img/logo.png" width="75px" height="75px" alt="LOGO">
-
-                                <!-- <h2>LOGO</h2> -->
                             </a>
-
                         </div>
                         <h6 style="margin: 27px 0px -23px 74px;">HOMEOPATHIC</h6><br><span
                             style='/* font-size: 12px; */font-family: ui-monospace;font-weight: 600;color: darkgreen;'>CLINIC</span>
-                        <!-- End Logo -->
-                        <!-- Mobile Nav -->
                         <div class="mobile-nav"></div>
                         <!-- End Mobile Nav -->
                     </div>
@@ -80,7 +70,7 @@
                     </div>
                     <div class="col-lg-2 col-12">
                         <div class="get-quote">
-                            <a href="appointment.php" class="btn">Appointment</a>
+                            <a href="appointment" class="btn">Appointment</a>
                         </div>
                     </div>
                 </div>
