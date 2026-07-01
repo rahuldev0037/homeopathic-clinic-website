@@ -57,15 +57,38 @@ homeopathic-clinic-website/
 ├── include/
 ├── js/
 ├── mail/
+├── screenshots/
 │
 ├── about.php
 ├── appointment.php
 ├── contact.php
 ├── index.php
-├── portfolio-details.html
 ├── style.css
 └── README.md
 ```
+## 📸 Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### About Page
+
+![About](screenshots/about.png)
+
+---
+
+### Contact Page
+
+![Contact](screenshots/contact.png)
+
+---
+
+### Appointment Page
+
+![Appointment](screenshots/appointment.png)
 
 ---
 
